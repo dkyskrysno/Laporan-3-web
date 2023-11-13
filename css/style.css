@@ -216,7 +216,7 @@
   }
 
   .scrollbar {
-    overflow: auto;
+    overflow: scroll;
     border: 3px solid rgb(63, 88, 146);
     padding: 10px;
     height: 300px;
